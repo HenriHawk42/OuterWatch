@@ -1,6 +1,8 @@
 # OuterWatch
 A smartwatch face (roughly) based off of Outer Wilds
 
+![alt text](https://github.com/HenriHawk42/OuterWatch/blob/main/whole.png "The cool :)")
+
 Hey there, I recently played Outer Wilds (which is a very good game, please go play it if you haven't already) and I wanted to make a watch face, so I combined them and made an OW-inspired face!
 
 These files were made in mind for a Samsung Galaxy Watch Active2, but can be adapted to any type
