@@ -19,7 +19,7 @@ It should be noted that everything here is based off of a 30px square grid. You 
 
 If you prepare the SVG, you're on your own, as quite frankly I can't be bothered to write a detailed description for the process. Just export each part to a png in the right size and you'll be fine (if you're using Inkscape, just scale everything up or down and you'll be fine!)
 
-The font used is `Space Mono Regular`. It can be found [here on Google Fonts.](https://fonts.google.com/specimen/Space+Mono)
+The font used is `Space Mono Regular` mostly in `30px` size. It can be found [here on Google Fonts.](https://fonts.google.com/specimen/Space+Mono)
 
 There are many different PNGs, but don't worry! It's simpler than it looks. The parts consist of:
 
